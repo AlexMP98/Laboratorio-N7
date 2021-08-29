@@ -55,8 +55,30 @@ Implementaremos los siguientes circuitos en el simulador Dcaclab.
 
 **4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR**      
 4.1  Para cada uno de los circuitos eléctricos anteriores, elabora una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.     
-![Tabla 1](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/Tabla1.png)      
-![Tabla 1](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/Tabla2.png)  
+![Tabla 1](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/Tabla1.png)          
+![Tabla 2](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/Tabla2.png)     
+
+En la tabla de la figura 1 se puede observar que los valores del voltaje pico medido por el osciloscopio van disminuyendo a medida que el valor de la frecuencia va aumentando como se puede ver cuando la frecuencia es 10 Hz el valor del voltaje pico es de 10 V y cuando la frecuencia aumenta a un valor de 1000 Hz el voltaje pico es de 6.17 V, lo mismo sucede con los valores de los voltajes obtenidos por el multímetro.     
+
+En la tabla de la figura de la 2 se puede observar que en los 3 primeros valores de las frecuencia que son de 0,10 y 50 Hz existe un aumento y una disminución del voltaje pico obtenido del osciloscopio, mientras que a partir del valor de 50 Hz en adelante se puede observar que los valores del voltaje pico van aumentnaod conforme la frecuencia aumenta, esto es diferente con respecto a lo que sucede en la tabla de la figura 1, ya que mientras que en la tabla de la figura 1 el voltaje pico disminuye mientras aumenta la frecuencia, en la tabla 2 el voltaje pico aumenta a medida que la frecuencia aumenta a partir de 50 Hz.   
+
+4.2 Preguntas    
+
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?    
+El capacitador cuando la corriente es continua (0 Hz), arroja un valor de voltaje pico de 0 V mientras que la bobina cuando la corriente es continua (0 Hz) arroja un valor de voltaje pico de 2.76 V     
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?     
+El capacitor cuando la corriente es alterna, se comporta de tal manera que arroja valores del voltaje pico con la observación de que estos valores del voltaje pico van disminuyendo conforme la frecuencia va aumentando mientras que la bobina cuando la corriente es alterna, se comporta de tal manera que arroja valores de voltaje pico pero estos valores van aumentando a partir de que la frecuencia es de 50 Hz y esta va aumentando.    
+
+3.- ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitadores de valores distintos?    
+Si los valores de las dos bobinas o de los dos capacitores son distintos, podría pasar que los valores del voltaje pico y de la corriente sean totalmente distintos a los valores anotados en las anteriores tablas ya que el valor de una bobina o de un capacitador es fundamental al momento de realizar las mediciones, por lo que al momento de hacer una medición con la condición de que los valores sean diferentes, podríamos obtener resultados diferentes con respecto a los ya obtenidos con la condición de que sus valores sean iguales.   
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?    
+El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.     
+
+
+El voltaje RMS, o el cuadrado medio de la raíz (también llamado el voltaje eficaz), es un método de denotar una forma de onda senoidal de voltaje (forma de onda de CA) como un voltaje equivalente que representa el valor de voltaje DC que producirá el mismo efecto de calentamiento o disipación de potencia en el circuito, como esta tensión de CA.
+En otras palabras, la forma de onda es una forma de onda AC, pero el valor RMS permite que esta forma de onda se especifique como DC, porque es la tensión DC equivalente que entrega la misma cantidad de energía a una carga en un circuito como la señal AC hace sobre su ciclo.
 
 
 **5. VIDEO**
