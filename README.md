@@ -53,7 +53,11 @@ Implementaremos los siguientes circuitos en el simulador Dcaclab.
 ![Paso 9](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/Paso%209.png)
 
 
-**4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR** 
+**4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR**      
+4.1  Para cada uno de los circuitos eléctricos anteriores, elabora una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.     
+![Tabla 1](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/Tabla1.png)      
+![Tabla 1](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/Tabla2.png)  
+
 
 **5. VIDEO**
 
