@@ -85,7 +85,7 @@ En otras palabras, la forma de onda es una forma de onda AC, pero el valor RMS p
 
 
 **5. VIDEO**    
-Link del video:       
+Link del video; https://www.youtube.com/watch?v=OH4sbN-LW4M   
 
 
 **6. CONCLUSIONES**
