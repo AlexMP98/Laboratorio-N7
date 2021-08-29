@@ -78,10 +78,15 @@ El valor eficaz de una corriente alterna, es el valor que tendría una corriente
 
 
 El voltaje RMS, o el cuadrado medio de la raíz (también llamado el voltaje eficaz), es un método de denotar una forma de onda senoidal de voltaje (forma de onda de CA) como un voltaje equivalente que representa el valor de voltaje DC que producirá el mismo efecto de calentamiento o disipación de potencia en el circuito, como esta tensión de CA.
-En otras palabras, la forma de onda es una forma de onda AC, pero el valor RMS permite que esta forma de onda se especifique como DC, porque es la tensión DC equivalente que entrega la misma cantidad de energía a una carga en un circuito como la señal AC hace sobre su ciclo.
+En otras palabras, la forma de onda es una forma de onda AC, pero el valor RMS permite que esta forma de onda se especifique como DC, porque es la tensión DC equivalente que entrega la misma cantidad de energía a una carga en un circuito como la señal AC hace sobre su ciclo.   
+
+4.3 Calculo del error    
+![Tabla 2](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/error.png)    
 
 
-**5. VIDEO**
+**5. VIDEO**    
+Link del video:       
+
 
 **6. CONCLUSIONES**
 
