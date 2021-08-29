@@ -64,16 +64,20 @@ En la tabla de la figura de la 2 se puede observar que en los 3 primeros valores
 
 4.2 Preguntas    
 
-1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?    
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?           
+
 El capacitador cuando la corriente es continua (0 Hz), arroja un valor de voltaje pico de 0 V mientras que la bobina cuando la corriente es continua (0 Hz) arroja un valor de voltaje pico de 2.76 V     
 
-2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?     
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?      
+
 El capacitor cuando la corriente es alterna, se comporta de tal manera que arroja valores del voltaje pico con la observación de que estos valores del voltaje pico van disminuyendo conforme la frecuencia va aumentando mientras que la bobina cuando la corriente es alterna, se comporta de tal manera que arroja valores de voltaje pico pero estos valores van aumentando a partir de que la frecuencia es de 50 Hz y esta va aumentando.    
 
-3.- ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitadores de valores distintos?    
+3.- ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitadores de valores distintos?      
+
 Si los valores de las dos bobinas o de los dos capacitores son distintos, podría pasar que los valores del voltaje pico y de la corriente sean totalmente distintos a los valores anotados en las anteriores tablas ya que el valor de una bobina o de un capacitador es fundamental al momento de realizar las mediciones, por lo que al momento de hacer una medición con la condición de que los valores sean diferentes, podríamos obtener resultados diferentes con respecto a los ya obtenidos con la condición de que sus valores sean iguales.   
 
-4.- ¿Qué son los valores eficaces de voltaje y corriente?    
+4.- ¿Qué son los valores eficaces de voltaje y corriente?      
+
 El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.     
 
 
