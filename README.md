@@ -14,6 +14,8 @@ _Objetivos Específicos_
 
 -Medir los diferentes voltajes y corrientes para formas de onda simples que varian en el tiempo.
 
+-Comprender que los capacitores almacenan energía en forma de campo eléctrico, mientras que el inductor almacena energía en forma de campo magnético.
+
 **2. MARCO TEÓRICO**
 
 ![mt1](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt1.PNG)
