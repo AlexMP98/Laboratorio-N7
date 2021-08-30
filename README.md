@@ -10,25 +10,25 @@ _Objetivos Específicos_
 
 **2. MARCO TEÓRICO**
 
-https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt1.PNG
+![mt1](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt1.PNG)
 
-https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt2.PNG
+![mt2](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt2.PNG)
 
-https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt3.PNG
+![mt3](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt3.PNG)
 
-https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt4.PNG
+![mt4](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt4.PNG)
 
-https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt5.PNG
+![mt5](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt5.PNG)
 
-https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt6.PNG
+![mt6](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt6.PNG)
 
-https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt7.PNG
+![mt7](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt7.PNG)
 
-https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt8.PNG
+![mt8](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt8.PNG)
 
-https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt9.PNG
+![mt9](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt9.PNG)
 
-https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt10.PNG
+![mt10](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt10.PNG)
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
