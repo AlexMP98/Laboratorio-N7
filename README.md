@@ -10,11 +10,9 @@ _Objetivo General_
 
 _Objetivos Específicos_
 
--
+-Verificar las combinaciones serie y paralelo  de bobinas y capacitores.
 
--
-
--
+-Medir los diferentes voltajes y corrientes para formas de onda simples que varian en el tiempo.
 
 **2. MARCO TEÓRICO**
 
@@ -116,10 +114,20 @@ En otras palabras, la forma de onda es una forma de onda AC, pero el valor RMS p
 ![Tabla 2](https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/error.png)    
 
 
-**5. VIDEO**    
-Link del video; https://www.youtube.com/watch?v=OH4sbN-LW4M   
+**5. VIDEO**   
 
+Link del video; https://www.youtube.com/watch?v=OH4sbN-LW4M   
 
 **6. CONCLUSIONES**
 
+-Si se conecta una fuente de voltaje de cd a un capacitor, este se cargara al voltaje de la fuente.
+
+-La inductancia se puede vincular a la inercia en un sistema mecanico.
+
+-El voltaje de una inductancia ideal con corriente de cd constante es 0. Un inductor ideal se ve como un cortocircuito en estado estable de cd.
+
 **7. BIBLIOGRAFÍA**
+
+H.Robbins, A., & Wilhem C. Miller. (2008). Análisis de circuitos: teoría y práctica, Cuarta Edición. Ciudad de México: CENGAGE Learning.
+
+Boylestad, R. 2011. Introducción al Análisis de Circuitos.2da. Edición. Pearson.
