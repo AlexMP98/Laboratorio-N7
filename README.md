@@ -10,6 +10,26 @@ _Objetivos Específicos_
 
 **2. MARCO TEÓRICO**
 
+https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt1.PNG
+
+https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt2.PNG
+
+https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt3.PNG
+
+https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt4.PNG
+
+https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt5.PNG
+
+https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt6.PNG
+
+https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt7.PNG
+
+https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt8.PNG
+
+https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt9.PNG
+
+https://github.com/AlexMP98/Laboratorio-N7/blob/main/Imagenes/mt10.PNG
+
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
 Implementaremos los siguientes circuitos en el simulador Dcaclab.
