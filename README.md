@@ -6,7 +6,15 @@
 
 _Objetivo General_
 
+-Verificar los diferentes comportamientos tanto de las bobinas como los capacitores en los diferentes circuitos planteados.
+
 _Objetivos Específicos_
+
+-
+
+-
+
+-
 
 **2. MARCO TEÓRICO**
 
