@@ -10,7 +10,7 @@ _Objetivo General_
 
 _Objetivos Específicos_
 
--Verificar las combinaciones serie y paralelo  de bobinas y capacitores.
+-Experimentar con las combinaciones serie y paralelo  de bobinas y capacitores.
 
 -Medir los diferentes voltajes y corrientes para formas de onda simples que varian en el tiempo.
 
@@ -116,7 +116,7 @@ En otras palabras, la forma de onda es una forma de onda AC, pero el valor RMS p
 
 **5. VIDEO**   
 
-Link del video; https://www.youtube.com/watch?v=OH4sbN-LW4M   
+Link del video: https://www.youtube.com/watch?v=OH4sbN-LW4M   
 
 **6. CONCLUSIONES**
 
